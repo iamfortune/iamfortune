@@ -1,5 +1,10 @@
 ### Care for a story?  👋
 
+Here I am, a teenage software engineer with a knack for JavaScript and the Cloud. Trust me when i say, a code for my life is to make lives easier for everyone around me, using my present skills, Software Engineering and People skills 😄. 
+
+
+
+
 <!--
 **iamfortune/iamfortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
