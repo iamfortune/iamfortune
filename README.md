@@ -2,7 +2,9 @@
 
 Here I am, a teenage software engineer with a knack for JavaScript and the Cloud. Trust me when i say, a code for my life is to make lives easier for everyone around me, using my present skills, Software Engineering and People skills 😄. 
 
+Presently I'm building a number of projects that are focused on helping African students to "be more" while smacking my keyboard to make *magic!*, When I'm not testing an app on localhost3001 or port 3000, I'm avoding the tempation to run a React Native app using android simulator (it freezes my system 😄).
 
+Oh, have to go now, my keyboard calls with red lines that prevent successful execution 🌱.
 
 
 <!--
