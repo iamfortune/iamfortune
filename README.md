@@ -5,9 +5,8 @@ I'm Fortune Ikechi a Developer Advocate and Technical Writer for Smashing Magazi
 Currently, I'm a Developer Relations Engineer at Storyblok where I'm working on improving and growing the Storyblok community. On some days, I enjoy writing API documentation, as well as building APIs, using Nodejs.
 
 SKILLS
-I build on the web with these:
 
-Technical
+Technical Skills include
 Javascript
 Typescript
 Reactjs. Nextjs
