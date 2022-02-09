@@ -12,7 +12,7 @@ Typescript
 Reactjs. Nextjs
 Nodejs, Mongodb and Express and more
 
-Next On My List to Learn
+Next On My List to Learn include
 Golang
 Solidity
 
