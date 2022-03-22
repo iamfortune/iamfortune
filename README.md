@@ -17,6 +17,4 @@ Golang
 Solidity
 
 Find me around the web
-Twitter: https://twitter.com/Codedog_ 
-LinkedIn: https://www.linkedin.com/in/fortune-ikechi-99199a13b/
 email: ikechifortune@gmail.com
