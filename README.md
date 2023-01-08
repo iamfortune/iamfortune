@@ -19,4 +19,4 @@ Golang
 Rust
 
 Find me around the web
-email: ikechifortune@gmail.com
+email: Fortune Ikechi
