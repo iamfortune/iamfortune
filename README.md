@@ -11,10 +11,9 @@
     <img src="https://komarev.com/ghpvc/?username=iamfortune&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
-## Abiut Me 
-
 <h3 align="center"> Hi there! 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Fortune Ikechi! </h3>
 
+## About Me 
 
 I'm working towards improving myself by growing, learning, and becoming a better me. I love to [write](https://www.fortuneikechi.com/blog), code, and [teach/speak](https://www.fortuneikechi.com/talk).
 
