@@ -11,6 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=iamfortune&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
+## About Me
 
 <h3 align="center"> Hi there! 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Fortune Ikechi! </h3>
 
