@@ -18,7 +18,7 @@
 I'm working towards improving myself by growing, learning, and becoming a better me. I love to [write](https://www.fortuneikechi.com/blog), code, and [teach/speak](https://www.fortuneikechi.com/talk).
 
 
-I am currently a Documentation and Developer Relations Engineer at [Platformatic](https://platformatic.dev/), where I am responsible for improving and managing the documentation, building product demos and POCS, and running the [Platformatic](https://platformatic.dev) communities. 
+I am currently a Documentation and Developer Relations Engineer at [Platformatic](https://platformatic.dev/), where I am responsible for improving and managing the documentation and running the [Platformatic](https://platformatic.dev) communities. 
 
 
 At Platformatic, we are working on Open-source toolkits for building Node.js applications.
