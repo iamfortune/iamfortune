@@ -48,3 +48,5 @@ Cloud Native Technologies
 
 Find me on the web
 email: ikechifortune@gmail.com
+
+This readme was inspired by Shedrack Akintayo.
