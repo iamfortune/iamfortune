@@ -11,18 +11,22 @@
     <img src="https://komarev.com/ghpvc/?username=iamfortune&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
+
 <h3 align="center"> Hi there! 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Fortune Ikechi! </h3>
+
 
 I'm working towards improving myself by growing, learning, and becoming a better me. I love to [write](https://www.fortuneikechi.com/blog), code, and [teach/speak](https://www.fortuneikechi.com/talk).
 
+
 I am currently a Documentation and Developer Relations Engineer at [Platformatic](https://platformatic.dev/), where I am responsible for improving and managing the documentation, building product demos and POCS, and running the [Platformatic](https://platformatic.dev) communities. 
+
 
 At Platformatic, we are working on Open-source toolkits for building Node.js applications.
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Technical Writing, Developer Advocacy, and Historical Architecture 😉
 
-SKILLS
+## SKILLS
 
 Technical Skills include
 JavaScript
