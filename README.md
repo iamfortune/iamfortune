@@ -18,10 +18,7 @@
 I'm working towards improving myself by growing, learning, and becoming a better me. I love to [write](https://www.fortuneikechi.com/blog), code, and [teach/speak](https://www.fortuneikechi.com/talk).
 
 
-I am currently a Documentation and Developer Relations Engineer at [Platformatic](https://platformatic.dev/), where I am responsible for improving and managing the documentation and running the [Platformatic](https://platformatic.dev) communities. 
-
-
-At Platformatic, we are working on Open-source toolkits for building Node.js applications.
+I am currently a Senior Technical Writer at [Somewhere](https://google.com/).
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Technical Writing, Developer Advocacy, and Historical Architecture 😉
