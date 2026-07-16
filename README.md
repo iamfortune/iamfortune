@@ -29,19 +29,10 @@ Technical Skills include
 JavaScript
 TypeScript
 Reactjs. Nextjs
-Node.js, MongoDB, Express and more
+Node.js, MongoDB, Express, Go and more
 
 Next On My List to Learn include
-Golang
 Cloud Native Technologies 
-
-### :fire: GH Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamfortune&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfortune&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Fortune's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfortune&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
 Find me on the web
 email: ikechifortune@gmail.com
